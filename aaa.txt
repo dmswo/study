@@ -1,1 +1,6 @@
 깃입문중입니다.
+
+git add document.txt
+git commit -m "Add Text file [aaa.txt]"
+
+git push
